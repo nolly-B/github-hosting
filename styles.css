@@ -7,8 +7,8 @@ body {
 }
 a {
   position: relative;
-  left: 300px;
-  top: 30px;
+  right: 20px;
+  top: 50px;
 }
 
 .btn-success {
